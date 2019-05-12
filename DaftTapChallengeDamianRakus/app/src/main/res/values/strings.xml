@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DaftTapChallengeDamianRakus</string>
+    <string name="timeLeftStr">Time left:</string>
+    <string name="play">PLAY</string>
+    <string name="gameTime">Time left: 5</string>
+    <string name="startScore">Score: 0</string>
+    <string name="scoreFile">list.txt</string>
+    <string name="dafttap_challenge">DaftTap Challenge</string>
+</resources>
